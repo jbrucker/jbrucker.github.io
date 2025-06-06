@@ -1,14 +1,14 @@
 ### If Solar Panels produce more power than the load can accept, what effect does it have on health of the solar panels?
 
+---
+
 ### Answer
 
 In general, **solar panels are not harmed** when they produce more power than the connected load can accept. However, the **overall system behavior and protection mechanisms** determine how that excess power is managed. Here's a technical breakdown:
 
----
-
 ### 1. Photovoltaic (PV) Panel Characteristics
 
-Solar panels are **current-limited voltage sources**. Their output depends on sunlight, temperature, and the **electrical load presented to them**. Importantly:
+Solar panels are **current-limited voltage sources**. Their output depends on sunlight, temperature, and the **electrical load connected to them**. Importantly:
 
 * If no load or a limited load is present, the panel voltage rises toward its **open-circuit voltage (Voc)**.
 * If the system can't draw the full power (e.g., battery is full or grid-tied inverter limits export), **the current draw reduces**.
@@ -46,3 +46,6 @@ Consistently producing less than rated power (e.g., due to limited load or frequ
 
 If you're designing or evaluating a system, it's more important to consider the implications for **efficiency, return on investment, and battery or inverter protection**, rather than panel health.
 
+### Reference
+
+[Photovoltaic Degradation Rates - An Analytical Review](https://docs.nrel.gov/docs/fy12osti/51664.pdf)
