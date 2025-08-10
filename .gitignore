@@ -1,0 +1,14 @@
+# Files to not commit to git
+bin/env.sh
+_site/
+.*
+!.gitignore
+*.bak
+*.ctxt
+*.lock
+*.log
+.~lock*
+header.md
+# index.html is auto-generated from index.md, but subdir indices are created by me
+/index.html
+# Directories not to publish
