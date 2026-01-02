@@ -1,3 +1,6 @@
+[Incorparate AI into your apps](./incorporate-ai.md)
+
+[Create a Custom Github Profile Page](./github-profile-page.md)
 
 Solar Power
 ---
@@ -6,3 +9,8 @@ Solar Power
 
 Short Answer: **No**, it does not harm the solar panels. Click on the question for longer answer.
 
+
+Hair Color Visualization Tools
+---
+
+[Index](./hair-color/index.md)
